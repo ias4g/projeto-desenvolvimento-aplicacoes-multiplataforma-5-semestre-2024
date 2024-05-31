@@ -13,7 +13,6 @@ dist-ssr
 *.local
 *.env
 /**/temp
-/speech4text-ai-back
 
 # Editor directories and files
 .vscode/*
