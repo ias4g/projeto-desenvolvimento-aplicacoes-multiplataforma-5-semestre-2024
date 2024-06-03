@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
