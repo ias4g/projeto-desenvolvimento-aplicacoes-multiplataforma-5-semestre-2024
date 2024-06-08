@@ -5,7 +5,10 @@
 
 ## Visão Geral
 
-Este monorepo contém dois projetos principais: o backend (`speech4text-backend`) e o frontend (`speech4text-ai-front`) para a aplicação Speech4Text. A aplicação Speech4Text utiliza IA para converter fala em texto, fornecendo uma interface amigável para os usuários.
+Neste projeto desenvolvemos uma aplicação web composta por um frontend em React e
+um backend em Node.js, que utiliza Prisma para gerenciar o banco de dados e a API do
+OpenAI para gerar respostas automáticas baseadas em texto. O objetivo é criar uma plataforma que permite aos usuários fazer upload de vídeos e obter transcrições e sugestões
+automáticas de conteúdo. O backend (`speech4text-backend`) e o frontend (`speech4text-ai-front`) para a aplicação Speech4Text. A aplicação Speech4Text utiliza IA para converter fala em texto, fornecendo uma interface amigável para os usuários.
 
 > Projeto desenvolvido para conclusão do quinto semestre do curso de ciência da computação na uninove.
 
